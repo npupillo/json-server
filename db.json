@@ -1,0 +1,90 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Cribbage",
+      "start_date": "Apr 1 2015",
+      "end_date": "Apr 1 2015",
+      "status": "inactive",
+      "players": [
+        {
+          "id": 1,
+          "username": "Nicole",
+          "email": "n@n.com",
+          "scores": [
+            {
+              "id": 1,
+              "points": 2
+            },
+            {
+              "id": 3,
+              "points": 4
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "username": "Elvis",
+          "email": "e@e.com.com",
+          "scores": [
+            {
+              "id": 2,
+              "points": 4
+            },
+            {
+              "id": 4,
+              "points": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spades",
+      "start_date": "Apr 1 2015",
+      "end_date": "Apr 1 2015",
+      "status": "active",
+      "players": [
+        {
+          "id": 10,
+          "username": "Nicole",
+          "email": "n@n.com",
+          "scores": [
+            {
+              "id": 3,
+              "points": 7
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "username": "Jack",
+          "email": "j@j.com",
+          "scores": [
+            {
+              "id": 4,
+              "points": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dominos",
+      "start_date": "Apr 1 2015",
+      "end_date": "Apr 1 2015",
+      "status": "active",
+      "players": []
+    },
+    {
+      "id": 4,
+      "name": "Hi Lo",
+      "start_date": "Apr 1 2015",
+      "end_date": "Apr 1 2015",
+      "status": "active",
+      "players": []
+    }
+  ]
+}
